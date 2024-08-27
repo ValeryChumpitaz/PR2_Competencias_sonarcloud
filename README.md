@@ -1,0 +1,1 @@
+# PR2_Competencias_sonarcloud
